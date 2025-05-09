@@ -25,10 +25,15 @@ SQLite or MongoDB for data storage
 
 👥 Team Contributions
 Member	Contribution
+|
 Member 1: Data Engineer	Collected and cleaned datasets (movie metadata, user interaction), handled database integration.
+|
 Member 2: ML Engineer	Designed and trained collaborative filtering and deep learning models. Tuned model parameters.
+|
 Member 3: Backend Developer	Developed the matchmaking logic and API endpoints for recommendation serving.
+|
 Member 4: Frontend Developer	Built the user interface for movie discovery and interaction using Streamlit or Flask.
+|
 Member 5: Project Manager & Tester	Managed project workflow, documented code, and conducted testing and evaluation of the system.
 
 📌 How to Run
